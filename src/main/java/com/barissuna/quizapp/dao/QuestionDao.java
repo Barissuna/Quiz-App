@@ -1,6 +1,6 @@
 package com.barissuna.quizapp.dao;
 
-import com.barissuna.quizapp.Question;
+import com.barissuna.quizapp.model.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

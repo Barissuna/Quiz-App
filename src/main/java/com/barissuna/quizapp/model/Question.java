@@ -1,4 +1,4 @@
-package com.barissuna.quizapp;
+package com.barissuna.quizapp.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
